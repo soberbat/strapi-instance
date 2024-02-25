@@ -20,4 +20,4 @@ EXPOSE 5432
 
 
 
-CMD ["npm", "run", "develop"]
+CMD ["npm", "run", "start"]
